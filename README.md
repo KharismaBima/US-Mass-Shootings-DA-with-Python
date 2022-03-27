@@ -4,4 +4,4 @@ And here is the data analysis for mass shootings in United States from 2018 - 20
 
 Check and Download the original dataset here https://www.kaggle.com/datasets/hemil26/mass-shootings-in-united-states-20182022
 
-Yopu can also check this analysis on my kaggle at https://www.kaggle.com/code/kharismabima/us-mass-shootings-data-analysis
+You can also check this analysis on my kaggle at https://www.kaggle.com/code/kharismabima/us-mass-shootings-data-analysis
